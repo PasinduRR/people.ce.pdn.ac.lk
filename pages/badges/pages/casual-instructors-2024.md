@@ -26,7 +26,7 @@ students:
  - { eNumber: "E/19/443", name: "Wijayawardana K.G.D.T.", position: "CO224", profile_url: "/students/e19/443/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e19/e19443.jpg", link: "#" }
  - { eNumber: "E/19/324", name: "Rathnayake R.M.B.D.K.", position: "CO224", profile_url: "/students/e19/324/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e19/e19324.jpg", link: "#" }
  - { eNumber: "E/19/226", name: "Madhushanka K.G.M.", position: "CO225, CO226", profile_url: "/students/e19/226/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e19/e19226.jpg", link: "#" }
- - { eNumber: "E/19/409", name: "Udugamasooriya D.P.", position: "CO225, CO226", profile_url: "/students/e19/409/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e19/e19409.jpg", link: "#" }
+ - { eNumber: "E/19/409", name: "D.P. Udugamasooriya", position: "CO225, CO226", profile_url: "/students/e19/409/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e19/e19409.jpg", link: "#" }
  - { eNumber: "E/19/310", name: "Ranage R.D.P.R.", position: "CO224", profile_url: "/students/e19/310/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e19/e19310.jpg", link: "#" }
  - { eNumber: "E/19/224", name: "M.M.S.H. Madhurasinghe", position: "CO225, CO226", profile_url: "/students/e19/224/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e19/e19224.jpg", link: "#" }
  - { eNumber: "E/19/249", name: "Muthukumarana M.P.S.A.", position: "CO253", profile_url: "/students/e19/249/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e19/e19249.jpg", link: "#" }
